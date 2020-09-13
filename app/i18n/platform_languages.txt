@@ -1,0 +1,4 @@
+Android:                                iOS:
+--------------                          -------------
+English (US)            en-US           English                 en
+Spanish (Spain)         es-ES           Spanish                 es
